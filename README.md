@@ -1,5 +1,5 @@
 ### **Description**
-Curses is an efficient cross-platform solution for receiving user input and drawing text content in a terminal. The library is fairly low level with regard to the functionality that it offers. It does not provide the sort of abstractions that are desirable when building complex user interfaces. Libraries like Urwid and Npyscreen came about to fulfill such a need, and this user interface framework is yet another approach to layering abstractions on top of Curses. It exists as the product of an educational exercise and is not intended to be a competitive alternative to more mature Python widget libraries/frameworks.
+Curses is an efficient cross-platform solution for receiving user input and drawing text content in a terminal. As a fairly low level library with regard to the functionality that is available, Curses does not provide the sort of abstractions that are desirable when building complex user interfaces. This framework layers abstractions on top of Curses in an effort to simplify the process of creating a user interface. It exists as the product of an educational exercise and is not intended to be a competitive alternative to more mature Python widget libraries/frameworks.
 
 ### **Demo**
 
